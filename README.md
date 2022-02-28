@@ -2,9 +2,9 @@
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/Linkedin-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandra-ise/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/codewithsandra)
 [![Frontend Mentor](https://img.shields.io/badge/FrontendMentor-3F54A3?style=flat-square&logo=frontendmentor&logoColor=white)](https://www.frontendmentor.io/profile/sandraise)
+[![LinkedIn](https://img.shields.io/badge/Linkedin-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandra-ise/)
   
 </div>
 
